@@ -34,7 +34,7 @@ const mapsData = [
 ];
 
 function getImagePath(mapId, index) {
-    return `assets/images/${mapId}/image${index}.jpg`;
+    return `assets/images/${mapId}/image${index}.png`;
 }
 
 function renderMapCards() {
