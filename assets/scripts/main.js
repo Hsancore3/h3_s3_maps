@@ -4,7 +4,7 @@ const mapsData = [
         title: "ReMountains",
         description: "Переработка карты ReMountains",
         imageCount: 5,
-        preview: "assets/images/ReMountains/image1.jpg",
+        preview: "assets/images/ReMountains/image1.png",
         driveLink: "https://drive.google.com/drive/folders/1abc123mountains"
     },
     {
@@ -12,7 +12,7 @@ const mapsData = [
         title: "ReMilitaryBase",
         description: "Переработка Military Base",
         imageCount: 6,
-        preview: "assets/images/ReMilitaryBase/image1.jpg",
+        preview: "assets/images/ReMilitaryBase/image1.png",
         driveLink: "https://drive.google.com/drive/folders/2def456military"
     },
     {
@@ -20,7 +20,7 @@ const mapsData = [
         title: "ReCave",
         description: "Переработка карты Cave",
         imageCount: 4,
-        preview: "assets/images/ReCave/image1.jpg",
+        preview: "assets/images/ReCave/image1.png",
         driveLink: "https://drive.google.com/drive/folders/3ghi789cave"
     },
     {
@@ -28,7 +28,7 @@ const mapsData = [
         title: "KubikiEx",
         description: "Кубики",
         imageCount: 7,
-        preview: "assets/images/KubikiEx/image1.jpg",
+        preview: "assets/images/KubikiEx/image1.png",
         driveLink: "https://drive.google.com/drive/folders/4jkl012kubiki"
     }
 ];
