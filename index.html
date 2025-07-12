@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>H3_S3_MAPS - Коллекция карт</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="assets/styles/main.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>H3_S3_MAPS</h1>
+            <p class="subtitle">Коллекция ST3 карт</p>
+        </header>
+
+        <div class="maps-grid" id="mapsContainer"></div>
+
+        <footer>
+            <p>© 2025 Коллекция карт | Hsancore3</p>
+        </footer>
+    </div>
+
+    <div id="galleryModal" class="modal">
+        <div class="modal-content">
+            <div class="gallery-header">
+                <h2 id="galleryTitle">Галерея карты</h2>
+                <span class="close-btn">&times;</span>
+            </div>
+            <div class="gallery-main">
+                <img id="galleryImage" class="gallery-img" src="" alt="Gallery Image">
+                <div class="gallery-nav">
+                    <button class="nav-btn prev-btn"><i class="fas fa-chevron-left"></i></button>
+                    <button class="nav-btn next-btn"><i class="fas fa-chevron-right"></i></button>
+                </div>
+            </div>
+            <div class="gallery-footer">
+                <div class="image-counter">
+                    <span id="currentImg">1</span> из <span id="totalImgs">0</span>
+                </div>
+                <button id="galleryDownloadBtn" class="gallery-download-btn">
+                    <i class="fas fa-download"></i> Скачать карту
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="assets/scripts/main.js"></script>
+</body>
+</html>
