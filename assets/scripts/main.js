@@ -8,8 +8,8 @@ const mapsData = [
         driveLink: "https://drive.google.com/file/d/1QkgrN-Tyz9a3O_do64CfPg2RhDJtXoWK/view?usp=sharing"
     },
     {
-        id: "ReMilitary Base",
-        title: "ReMilitaryBase",
+        id: "ReMilitaryBase",
+        title: "ReMilitary Base",
         description: "Reworked Military Base map from S3",
         imageCount: 6,
         preview: "assets/images/ReMilitaryBase/image1.png",
