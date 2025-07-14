@@ -17,7 +17,7 @@
 
 body {
     background: 
-	linear-gradient(174deg, rgb(13, 11, 17), rgba(10, 10, 10, 0)),
+	linear-gradient(174deg, rgb(20, 11, 27), rgba(10, 10, 10, 0.918)),
 	linear-gradient(0deg, rgba(0,0,0,1), rgba(0, 0, 0, 0));
     color: var(--light);
     min-height: 100vh;
