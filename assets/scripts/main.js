@@ -38,6 +38,14 @@ const mapsData = [
         imageCount: 7,
         preview: "assets/images/SanatoriumRetouched/image1.png",
         driveLink: "https://drive.google.com/file/d/11MkITUXh1emHG3zhZvSrxHTYhpah4xY3/view?usp=sharing"
+    },
+    {
+        id: "Slender8Pages",
+        title: "Slender: The Eight Pages",
+        description: "Just a port of classic map of classic indie horror into S3, nothing special",
+        imageCount: 3,
+        preview: "assets/images/KubikiEx/image1.png",
+        driveLink: "https://drive.google.com/file/d/18bZeeL64s6OuoQeIJncNGHyLfjdfV6xG/view?usp=sharing"
     }
 ];
 
