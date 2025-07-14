@@ -33,7 +33,7 @@ const mapsData = [
     },
     {
         id: "Sanatorium",
-        title: "Sanatorium Retouched",
+        title: "SanatoriumRetouched",
         description: "Retouched version of Sanatorium with expanded visual and texture fixes",
         imageCount: 7,
         preview: "assets/images/SanatoriumRetouched/image1.png",
