@@ -30,6 +30,14 @@ const mapsData = [
         imageCount: 7,
         preview: "assets/images/KubikiEx/image1.png",
         driveLink: "https://drive.google.com/file/d/1nrvYY5sOiFCMul1eVrCH2iiFOp9p00Ut/view?usp=sharing"
+    },
+    {
+        id: "Sanatorium",
+        title: "Sanatorium Retouched",
+        description: "Retouched version of Sanatorium with expanded visual and texture fixes",
+        imageCount: 7,
+        preview: "assets/images/Sanatorium Retouched/image1.png",
+        driveLink: "https://drive.google.com/file/d/11MkITUXh1emHG3zhZvSrxHTYhpah4xY3/view?usp=sharing"
     }
 ];
 
