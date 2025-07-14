@@ -8,7 +8,7 @@ const mapsData = [
         driveLink: "https://drive.google.com/file/d/1QkgrN-Tyz9a3O_do64CfPg2RhDJtXoWK/view?usp=sharing"
     },
     {
-        id: "ReMilitaryBase",
+        id: "ReMilitary Base",
         title: "ReMilitaryBase",
         description: "Reworked Military Base map from S3",
         imageCount: 6,
@@ -32,8 +32,8 @@ const mapsData = [
         driveLink: "https://drive.google.com/file/d/1nrvYY5sOiFCMul1eVrCH2iiFOp9p00Ut/view?usp=sharing"
     },
     {
-        id: "Sanatorium",
-        title: "SanatoriumRetouched",
+        id: "SanatoriumRetouched",
+        title: "Sanatorium Retouched",
         description: "Retouched version of Sanatorium with expanded visual and texture fixes",
         imageCount: 7,
         preview: "assets/images/SanatoriumRetouched/image1.png",
